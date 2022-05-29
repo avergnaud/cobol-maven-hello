@@ -1,0 +1,1 @@
+cobol -t- src/main/cobol/hellow.cob -I target\dependency\cobol-maven-world-0.1.0-SNAPSHOT\src\main\cobol -o target/hellow.exe
